@@ -1,0 +1,1 @@
+web: gunicorn jntuk.wsgi --log-file
